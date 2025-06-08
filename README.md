@@ -5,6 +5,9 @@
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshx7)
-https://github-readme-stats.vercel.app/api?username=Venkateshx7&theme=dark&show_icons=true
 
+## 🚀 My Projects
+
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Venkateshx7&repo=Portfolio-Website)](https://github.com/Venkateshx7/Portfolio-Website)
+[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=Venkateshx7&repo=Python-Projects)](https://github.com/Venkateshx7/Python-Projects)
 
