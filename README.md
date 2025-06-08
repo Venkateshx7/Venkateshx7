@@ -5,6 +5,7 @@
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshx7)
-https://github-readme-stats.vercel.app/api?username=Venkateshx7&theme=dark&show_icons=true
+https://github-readme-stats.vercel.app/api?
+username=Venkateshx7&theme=dark&show_icons=true
 
 
