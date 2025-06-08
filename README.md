@@ -20,8 +20,10 @@
 ![Screenshot (43)](https://github.com/user-attachments/assets/8915cb42-ce9e-4201-bf0a-c4d498902569)
 
 <div align="center">
-  <img src="![Screenshot (38)](https://github.com/user-attachments/assets/07c081d1-3c84-4ff9-a15c-3f17e2f77961" width="45%">
-  <img src="![Screenshot (41)](https://github.com/user-attachments/assets/5d342b08-f909-4c21-a2d2-489fe157c213" width="45%">
+  <img src="https://github.com/user-attachments/assets/07c081d1-3c84-4ff9-a15c-3f17e2f77961" width="45%">
+  <img src="https://github.com/user-attachments/assets/5d342b08-f909-4c21-a2d2-489fe157c213" width="45%">
+  <img src="https://github.com/user-attachments/assets/5fd83f95-f905-40a8-b48e-63c53d7cded6" width="45%">
+  <img src="https://github.com/user-attachments/assets/8915cb42-ce9e-4201-bf0a-c4d498902569" width="45%"> 
 </div>
 *Project previews: Sentiment Analysis (left) and Code Editor (right)*
 
