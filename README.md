@@ -14,4 +14,4 @@
 | [Data Analyst](https://github.com/Venkateshx7/Data-Analyst) | Data processing and visualization | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib) | ![Issues](https://img.shields.io/github/issues/Venkateshx7/Data-Analyst) |
 | [Code Editor App](https://github.com/Venkateshx7/code-editor-app) | Web-based coding environment | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) | ![Stars](https://img.shields.io/github/stars/Venkateshx7/code-editor-app) |
 
-![Sentiment Analysis Preview](https://raw.githubusercontent.com/Venkateshx7/sentiment-analysis/main/assets/preview.png)
+
