@@ -6,14 +6,8 @@
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshx7)
 
+## 🔥 My Featured Projects
 
-## 🛠️ My Projects
-
-### 🔗 [Portfolio Website](https://github.com/Venkateshx7/Portfolio-Website) 
-📝 *A responsive portfolio built with HTML/CSS/JS*  
-⭐ **Stars:** ![Stars](https://img.shields.io/github/stars/Venkateshx7/Portfolio-Website)  
-🔄 **Last Updated:** ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/Portfolio-Website)
-
-### 🔗 [Python Projects](https://github.com/Venkateshx7/Python-Projects)
-📝 *Collection of automation scripts*  
-🧰 **Tech:** ![Python](https://img.shields.io/badge/Python-3.8+-blue)
+[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Venkateshx7&repo=sentiment-analysis&show_owner=true)](https://github.com/Venkateshx7/sentiment-analysis)
+[![Data Analyst](https://github-readme-stats.vercel.app/api/pin/?username=Venkateshx7&repo=Data-Analyst&show_owner=true)](https://github.com/Venkateshx7/Data-Analyst)
+[![Code Editor App](https://github-readme-stats.vercel.app/api/pin/?username=Venkateshx7&repo=code-editor-app&show_owner=true)](https://github.com/Venkateshx7/code-editor-app)
