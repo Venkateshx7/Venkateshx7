@@ -10,9 +10,8 @@
 
 | Project | Description | Tech Stack | Activity |
 |---------|-------------|------------|----------|
-| [Sentiment Analysis](https://github.com/Venkateshx7/sentiment-analysis) | NLP project analyzing text emotions | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![NLTK](https://img.shields.io/badge/NLTK-FFD43B) | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/sentiment-analysis) |
-| [Data Analyst](https://github.com/Venkateshx7/Data-Analyst) | Data processing and visualization | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib) | ![Issues](https://img.shields.io/github/issues/Venkateshx7/Data-Analyst) |
-| [Code Editor App](https://github.com/Venkateshx7/code-editor-app) | Web-based coding environment | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) | ![Stars](https://img.shields.io/github/stars/Venkateshx7/code-editor-app) |
+| [ProGuien](https://github.com/Venkateshx7/ProGuin) | Python-based CLI productivity coach focused on slow, disciplined daily progress | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-Terminal-black) ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/ProGuin) |
+| [AWS & DevOps Learning](https://github.com/Venkateshx7/aws-devops-learning) | Hands-on learning repository for AWS and DevOps fundamentals | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A) | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/aws-devops-learning) |
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/07c081d1-3c84-4ff9-a15c-3f17e2f77961" width="45%">
