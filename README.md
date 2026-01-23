@@ -14,10 +14,7 @@
 | [AWS & DevOps Learning](https://github.com/Venkateshx7/aws-devops-learning) | Hands-on learning repository for AWS and DevOps fundamentals | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A) | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/aws-devops-learning) |
 
 
-  <img src="https://github.com/user-attachments/assets/5fd83f95-f905-40a8-b48e-63c53d7cded6" width="45%">
-  <img src="https://github.com/user-attachments/assets/8915cb42-ce9e-4201-bf0a-c4d498902569" width="45%"> 
-</div>
-*Project previews: Sentiment Analysis (left) and Code Editor (right)*
+
 
 
 
