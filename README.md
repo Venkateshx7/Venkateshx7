@@ -10,7 +10,7 @@ I enjoy building things slowly and correctly.
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkateshx7&show_icons=true&include_all_commits=true&hide=prs,contribs)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Venkateshx7&show_icons=true&include_all_commits=true)
 
 > Stats update with delay due to GitHub API caching.
 
