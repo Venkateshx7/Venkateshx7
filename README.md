@@ -10,19 +10,12 @@ I enjoy building things slowly and correctly.
 ---
 
 ## 📊 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Venkateshx7)
-![Profile Views](https://komarev.com/ghpvc/?username=Venkateshx7)
+![Streak](https://streak-stats.demolab.com?user=Venkateshx7)
 
-> Stats update with delay due to GitHub API caching.
 
 ---
-
-## 💻 Top Languages (Code History)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshx7&layout=compact)
-
-> This reflects language usage across my public repositories.
-
----
+### 🚀 Featured Project
+- ProGuin – CLI Task Manager
 
 ## 🧠 Skills
 • Python  
