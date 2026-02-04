@@ -24,6 +24,7 @@ Check my pinned repositories below.
 - Linux Basics
 - CLI Tools
 - JSON / File Handling
+- Kotlin
 - AWS Fundamentals
 - DevOps Basics
 
