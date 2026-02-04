@@ -20,6 +20,7 @@ Check my pinned repositories below.
 
 ## Skills
 - Python
+- SQL
 - Git & GitHub
 - Linux Basics
 - CLI Tools
