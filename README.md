@@ -166,8 +166,6 @@ Contributors are welcome and appreciated.
   <img src="https://raw.githubusercontent.com/Venkateshx7/Venkateshx7/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> Note: To enable the snake animation, you’ll add a GitHub Action once (simple). If you want, tell me and I’ll give the exact YAML to paste.
-
 ---
 
 ## 📬 Contact
