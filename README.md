@@ -47,6 +47,7 @@ I’m **Venkatesh** — an aspiring software engineer focused on **building disc
 ## 🧠 Current Focus
 
 - Building **ProGuin** (CLI → Android → Web)
+- Deploying **ProGuin Flask Task Manager** on AWS EC2
 - Strengthening backend fundamentals (APIs + DB)
 - Exploring **Cloud & DevOps** practices
 - Writing cleaner, scalable code
@@ -87,6 +88,21 @@ I’m **Venkatesh** — an aspiring software engineer focused on **building disc
   <img src="https://img.shields.io/github/last-commit/Venkateshx7/ProGuin?style=for-the-badge" />
 </p>
 
+### ☁️ ProGuin Flask AWS Deployment
+A web-based version of ProGuin built with **Python Flask** and prepared for **AWS EC2 deployment**.
+
+- Flask web app with clean UI
+- Add, complete, undo, and delete tasks
+- JSON-based persistence
+- GitHub-based deployment workflow
+- Built as a beginner-friendly cloud deployment project
+
+🔗 Repo: https://github.com/Venkateshx7/proguin-flask-aws-deployment
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Venkateshx7/proguin-flask-aws-deployment?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/Venkateshx7/proguin-flask-aws-deployment?style=for-the-badge" />
+</p>
 ---
 
 ## 📌 Project Showcase
@@ -94,6 +110,7 @@ I’m **Venkatesh** — an aspiring software engineer focused on **building disc
 | Project | Description | Tech Stack | Activity |
 |--------|------------|------------|----------|
 | [ProGuin](https://github.com/Venkateshx7/ProGuin) | Discipline-first productivity system (CLI + Android) | Python, Kotlin, JSON | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/ProGuin) |
+| [ProGuin Flask AWS Deployment](https://github.com/Venkateshx7/proguin-flask-aws-deployment) | Flask-based task manager deployed on AWS EC2 with task add, toggle, and delete features | Python, Flask, AWS EC2, Git, Linux | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/proguin-flask-aws-deployment) |
 | [AWS & DevOps Learning](https://github.com/Venkateshx7/aws-devops-learning) | Hands-on AWS + DevOps fundamentals | AWS, Linux, DevOps | ![Last Commit](https://img.shields.io/github/last-commit/Venkateshx7/aws-devops-learning) |
 
 ---
